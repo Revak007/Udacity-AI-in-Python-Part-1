@@ -24,6 +24,6 @@ The json file is required to convert the numerical labels of the folder to categ
 
 ## COMMENTS
 -	While the code can generally be run in order, there are some parts that are not essential to the process and are added for later improvements:
-    o	 You only need to download one pretrained model. I have included code for how to download two models in case you want to change the type of model you use
-    o	 After the primary training section, I have including another code block that continues to train a model that has been saved to a checkpoint already. This is not needed if you use the classifier features that I have defined, since it reaches over 80% validation accuracy with my classifier. However, if you decide to change the classifier and need to run more epochs after saving to a checkpoint, you can run the extra training code block.
+    - You only need to download one pretrained model. I have included code for how to download two models in case you want to change the type of model you use
+    - After the primary training section, I have including another code block that continues to train a model that has been saved to a checkpoint already. This is not needed if you use the classifier features that I have defined, since it reaches over 80% validation accuracy with my classifier. However, if you decide to change the classifier and need to run more epochs after saving to a checkpoint, you can run the extra training code block.
 
