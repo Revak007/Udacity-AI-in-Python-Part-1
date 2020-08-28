@@ -7,14 +7,14 @@ The program uses Numpy, Pytorch, Matplotlib, PIL, json, and Pandas packages. Thi
 -	First, to install Anaconda, go to the following website, choose your operating system type, and follow instructions:
 https://docs.anaconda.com/anaconda/install/
 -	Then, to clone the repository, go to anaconda prompt and type in following: 
-Git clone https://github.com/Revak007/Udacity-AI-programming-in-Python.git 
+    `git clone https://github.com/Revak007/Udacity-AI-programming-in-Python.git`
 -	To install Jupyter Notebook:
-Conda install jupyter notebook
+    `conda install jupyter notebook`
 -	To run Jupyter Notebook, go the Anaconda prompt and type “jupyter notebook”. A browser will pop up in jupyter notebook in the current directory. 
 -	To install numpy, pandas, matplotlib:
-Conda install numpy, pandas, matplotlib
+    `conda install numpy, pandas, matplotlib`
 -	To install pytorch: 
-Conda install pytorch
+    `conda install pytorch`
 
 ## IMAGE DATASETS
 The flower images dataset used in this project is too big to include in this repo, but this program can be used with any image dataset. The data directory must consist of three sets- training data, validation data, and test data. Within each of these folders, there should be a number of folders labelled as per their contents (for example, a folder within the training folder that contains pictures of dandelions could be named '5' where '5' corresponds to 'dandelions'). 
