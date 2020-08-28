@@ -1,4 +1,4 @@
-# Udacity-AI-programming-in-Python
+# Udacity-AI-in-Python-Part-1
 This is the final image classifier project for the AI in Python nanodegree
 The code is written in Python 3.7, and to get Python and Jupyter notebook, you can install Anaconda (free package manager).
 The program uses Numpy, Pytorch, Matplotlib, PIL, json, and Pandas packages. This repository contains the first part of the project, which is developing code for an image classifier built with Pytorch. We will be using a pretrained model and altering it's classifier. Another repository contains part 2 of the project, which converts everything to a command line application.
